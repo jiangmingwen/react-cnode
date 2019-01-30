@@ -1,3 +1,6 @@
+这个是我读了《深入浅出React和Redux》 这本书以后写的一个demo，目录是书中推荐的按功能布局的模式。
+所有的技术栈都是当前版本最新的。欢迎批评！
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
