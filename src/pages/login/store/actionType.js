@@ -1,0 +1,3 @@
+export const LOGIN_ACTION = 'LOGIN/LOGIN';
+
+export const LOGOUT_ACTION = 'HEADER/LOGOUT';
